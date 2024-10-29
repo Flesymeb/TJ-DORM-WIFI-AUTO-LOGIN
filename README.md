@@ -1,0 +1,2 @@
+# TJ-DORM-WIFI-AUTO-LOGIN
+同济大学DORM-WIFI自动连接
