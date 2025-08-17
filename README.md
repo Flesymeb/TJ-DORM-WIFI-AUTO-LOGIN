@@ -10,7 +10,7 @@
 - Version2 Python 脚本+任务计划程序
 - Version3 批处理命令
 
-[详细介绍，这里](https://yzlevol.github.io/docs/tj-dorm-wifi-auto-login/)
+[详细介绍，这里](https://flesymeb.github.io/docs/tj-dorm-wifi-auto-login/)
 
 ## 使用方法
 
